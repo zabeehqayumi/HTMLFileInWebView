@@ -12,6 +12,7 @@
 		406DC085219BCDB5007090A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406DC083219BCDB5007090A1 /* Main.storyboard */; };
 		406DC087219BCDB6007090A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 406DC086219BCDB6007090A1 /* Assets.xcassets */; };
 		406DC08A219BCDB6007090A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406DC088219BCDB6007090A1 /* LaunchScreen.storyboard */; };
+		406DC094219BD14C007090A1 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 406DC093219BD14C007090A1 /* index.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		406DC086219BCDB6007090A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		406DC089219BCDB6007090A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		406DC08B219BCDB6007090A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		406DC093219BD14C007090A1 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				406DC07F219BCDB5007090A1 /* AppDelegate.swift */,
+				406DC093219BD14C007090A1 /* index.html */,
 				406DC081219BCDB5007090A1 /* ViewController.swift */,
 				406DC083219BCDB5007090A1 /* Main.storyboard */,
 				406DC086219BCDB6007090A1 /* Assets.xcassets */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				406DC08A219BCDB6007090A1 /* LaunchScreen.storyboard in Resources */,
+				406DC094219BD14C007090A1 /* index.html in Resources */,
 				406DC087219BCDB6007090A1 /* Assets.xcassets in Resources */,
 				406DC085219BCDB5007090A1 /* Main.storyboard in Resources */,
 			);
